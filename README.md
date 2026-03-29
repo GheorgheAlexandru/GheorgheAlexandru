@@ -17,7 +17,7 @@ Sunt student pasionat de **inginerie electronică și telecomunicații**, cu foc
 
 ## 💬 Limbi
 
-- 🇷🇴 **Limba Română** - Native
+- 🇷🇴 **Limba Română** - Nativ
 - 🇬🇧 **English** - Fluent (Technical & Professional)
 
 ---
