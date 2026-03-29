@@ -93,9 +93,9 @@ Sunt student pasionat de **inginerie electronică și telecomunicații**, cu foc
 
 ## 📞 Contact & Social
 
-- **Email**: [adresa-email]
+- **Email**: gheorghealexandru444@gmail.com
 - **LinkedIn**: [profil-LinkedIn]
-- **Telefon**: [telefon]
+- **Telefon**: 0740176632
 - **GitHub**: [GheorgheAlexandru](https://github.com/GheorgheAlexandru)
 
 ---
