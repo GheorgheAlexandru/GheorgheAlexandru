@@ -89,7 +89,7 @@ Sunt student pasionat de **inginerie electronică și telecomunicații**, cu foc
 
 ---
 
-⭐ **Deschis la oportunități de internship, colaborări și proiecte interesante!**
+⭐ **Deschis la oportunități de internship, colaborări și proiecte!**
 
 ---
 
