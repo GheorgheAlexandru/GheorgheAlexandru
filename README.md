@@ -72,12 +72,12 @@ Sunt student pasionat de **inginerie electronică și telecomunicații**, cu foc
 
 ## 🎯 Interese de Internship
 
-✅ Inginerie hardware - Proiectare și validare circuite  
-✅ Embedded Systems - Programare microcontrolere și IoT  
-✅ Telecomunicații - Sisteme digitale și procesare semnale  
-✅ FPGA Development - Proiectare hardware accelerată  
-✅ PCB Design - Layout și manufacturing  
-✅ Automatizare Industrială - Controlul proceselor și senzori  
+ Inginerie hardware - Proiectare și validare circuite  
+ Embedded Systems - Programare microcontrolere și IoT  
+ Telecomunicații - Sisteme digitale și procesare semnale  
+ FPGA Development - Proiectare hardware accelerată  
+ PCB Design - Layout și manufacturing  
+ Automatizare Industrială - Controlul proceselor și senzori  
 
 ---
 
