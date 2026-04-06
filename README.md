@@ -81,16 +81,6 @@ Sunt student pasionat de **inginerie electronică și telecomunicații**, cu foc
 
 ---
 
-## 🏆 Competențe Soft
-
--  **Rezolvare de probleme** - Debugging hardware și software
--  **Lucru în echipă** - Colaborare pe proiecte complexe
--  **Documentare** - Redactare README-uri și specificații tehnice
--  **Atenție la detalii** - Simulări și validare riguroasă
--  **Învățare continuă** - Stăpânire rapidă a noi tehnologii
-
----
-
 ## 📞 Contact & Social
 
 - **Email**: gheorghealexandru444@gmail.com
