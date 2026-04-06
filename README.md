@@ -22,14 +22,14 @@ Sunt student pasionat de **inginerie electronică și telecomunicații**, cu foc
 
 ---
 
-## 💡 Competențe Tehnice
+##  Competențe Tehnice
 
 ### 🔧 Hardware & Design Circuite
 - Proiectare și simulare circuite (SPICE, LTspice)
 - Amplificatoare operaționale și circuite de condiționare semnal
 - Microcontrolere (Arduino, STM32)
 - FPGA Development (Verilog/VHDL)
-- **KiCad** - Proiectare PCB și schemă electrică
+- KICad - Proiectare PCB și schemă electrică
 - Prototiping pe breadboard
 
 ### 📡 Embedded Systems & Senzori
@@ -46,14 +46,14 @@ Sunt student pasionat de **inginerie electronică și telecomunicații**, cu foc
 - Analiză spectral (FFT)
 
 ### 💻 Limbaje de Programare
-- **C/C++** - Microcontrolere și Arduino
-- **MATLAB** - Simulări digitale și DSP
-- **Verilog** - Proiectare FPGA
+- C/C++ - Microcontrolere și Arduino
+- MATLAB - Simulări digitale și DSP
+- VHDL - Proiectare FPGA
 
 ### 🛠️ Instrumente
 - MATLAB/Simulink
 - LTspice / Proteus
-- **KiCad** (Schemă & PCB)
+- KiCad (Schemă & PCB)
 - Arduino IDE
 - Git & GitHub
 - Serial Monitor / Debugging tools
@@ -83,11 +83,11 @@ Sunt student pasionat de **inginerie electronică și telecomunicații**, cu foc
 
 ## 🏆 Competențe Soft
 
-- 📚 **Rezolvare de probleme** - Debugging hardware și software
-- 🤝 **Lucru în echipă** - Colaborare pe proiecte complexe
-- 📖 **Documentare** - Redactare README-uri și specificații tehnice
-- 🔍 **Atenție la detalii** - Simulări și validare riguroasă
-- 📈 **Învățare continuă** - Stăpânire rapidă a noi tehnologii
+-  **Rezolvare de probleme** - Debugging hardware și software
+-  **Lucru în echipă** - Colaborare pe proiecte complexe
+-  **Documentare** - Redactare README-uri și specificații tehnice
+-  **Atenție la detalii** - Simulări și validare riguroasă
+-  **Învățare continuă** - Stăpânire rapidă a noi tehnologii
 
 ---
 
